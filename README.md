@@ -8,6 +8,6 @@ The site is broken up into the following main parts:
 
   - **PGP**
     - **Generate** - Everything to do with creating, updating and modifying your keys
-    - **Usage** - Day to day usage including encrypting/decrypting, ssh access, etc.
+    - **Usage** - Day to day usage including encryption/decryption, ssh access, etc.
   - **Documentation** - Simple explanations of key things.
   - **OPSEC** - information about Operational Security
