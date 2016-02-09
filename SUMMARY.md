@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [pgp](pgp.md)
    * Generate
-       * [Generate your root PGP key](pgp/generate/generateyour_root_pgp_key_md.md)
-           * Generate your diceware passphrase
+       * [Generate your root PGP key](pgp/generate/1_about.md)
+       * [Generate your diceware passphrase](pgp/generate/2_passphrase.md)
    * Usage
        * [Keybase.io](keybaseio.md)
        * [How to change your passphrase](how_to_change_your_passphrase.md)
