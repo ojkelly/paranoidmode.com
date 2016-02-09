@@ -1,4 +1,7 @@
 {
+    "title": "Paranoid Mode",
+    "description": "An opinionated guide to setting up and using PGP keys in a post-Snowden world.",
+    "language":"en",
     "gitbook": "2.x.x",
     "plugins": ["edit-link"],
     "pluginsConfig": {
