@@ -10,6 +10,6 @@
        * [How to change your passphrase](how_to_change_your_passphrase.md)
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
-* opsec
+* [opsec](opsec.md)
    * Automatically lock your computer when you remove your OpenPGP Smart Card
 
