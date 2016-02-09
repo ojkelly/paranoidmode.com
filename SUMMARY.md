@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [pgp](pgp.md)
+* [Pretty Good Privacy (PGP)](pgp.md)
    * [Generate your root PGP key](pgp/generate/about.md)
        * [Generate your diceware passphrase](pgp/generate/passphrase.md)
        * [Prepare your Yubikey](pgp/generate/prepare-yubikey.md)
