@@ -11,5 +11,5 @@
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
 * [opsec](opsec.md)
-   * Automatically lock your computer when you remove your OpenPGP Smart Card
+   * [Automatically lock your computer when you remove your OpenPGP Smart Card](automatically_lock_your_computer_when_you_remove_y.md)
 
