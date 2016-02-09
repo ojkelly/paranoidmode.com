@@ -4,6 +4,7 @@
 * [pgp](pgp.md)
    * Generate
        * [Generate your root PGP key](pgp/generate/generateyour_root_pgp_key_md.md)
+           * Generate your diceware passphrase
    * Usage
        * [Keybase.io](keybaseio.md)
        * [How to change your passphrase](how_to_change_your_passphrase.md)
