@@ -11,4 +11,3 @@ The site is broken up into the following main parts:
     - **Usage** - Day to day usage including encrypting/decrypting, ssh access, etc.
   - **Documentation** - Simple explanations of key things.
   - **OPSEC** - information about Operational Security
-
