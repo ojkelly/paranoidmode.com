@@ -17,7 +17,7 @@ Before you get started you will need to get the following:
 
  - **1-2 hours** (I think)
  - `Dice`
-   - ideally you want 8, but 1 will do
+   - Ideally you want 8, but 1 will do
  - `GPG Tools`
    - [Download GPG Tools](https://www.gpgtools.org/)
  - **1** `Tails.iso`
