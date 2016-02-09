@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [PGP](pgp.md)
    * Generate
-       * Generate your root PGP key
+       * [Generate your root PGP key](generate_your_root_pgp_key.md)
 
