@@ -5,4 +5,5 @@
 * [PGP](pgp.md)
    * Generate
        * [Generate your root PGP key](generate_your_root_pgp_key.md)
+   * Usage
 
