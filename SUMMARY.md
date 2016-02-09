@@ -25,4 +25,5 @@
    * [Design your threat model](design_your_threat_model.md)
    * [ssh opsec](opsec/ssh/ssh_opsec.md)
        * [Harden your ssh_config](opsec/ssh/harden_your_sshconfig.md)
+   * Preparing your airgapped computer
 
