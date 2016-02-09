@@ -29,7 +29,7 @@ Before you get started you will need to get the following:
  - **1 Yubikey 4** or newer, or similar `OpenPGP Smart Card`
    - I'm using a Yubikey because they're small, well built, and easy
    - The Yubikey 4 allows for 4096 bit keys, previous Yubikey's do not allow keys this big, and some older
-      Yubikeys don't support `OpenPGP Smart Card`. So make it easy for yourself, get a new Yubikey 4 or newer.
+      Yubikeys don't support `OpenPGP Smart Card`. Make it easy for yourself, get a new Yubikey 4 or newer.
  - **1** `air-gapped laptop`
    - Ideally this is a laptop with the following removed or not installed: `microphone`, `speakers`,
    `webcam/camera`, `wifi antenna`, `bluetooth antenna`, `3G/4G/5G/6G/7G antenna`, `hard drives`, and any other devices capable of transmitting information wirelessly.
