@@ -12,7 +12,6 @@
        * [Backup your private key](pgp/generate/backup-private-key.md)
        * [Generate your subkeys](pgp/generate/generate-subkeys.md)
        * [Publish your public key](pgp/generate/publish-public-key.md)
-       * [Done](pgp/generate/next-steps.md)
    * Usage
        * [Keybase.io](pgp/usage/keybaseio.md)
        * How to change your passphrase
