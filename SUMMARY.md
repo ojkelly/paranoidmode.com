@@ -9,5 +9,5 @@
        * [Keybase.io](keybaseio.md)
        * [How to change your passphrase](how_to_change_your_passphrase.md)
        * How to create new subkeys
-       * How to use your OpenPGP SmartCard for SSH Authentication
+       * [How to use your OpenPGP SmartCard for SSH Authentication](how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
 
