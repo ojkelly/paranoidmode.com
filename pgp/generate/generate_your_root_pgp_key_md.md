@@ -148,7 +148,7 @@ Passwords get their strength from [entropy](https://www.wikiwand.com/en/Entropy_
 
 I present one of the most famous XKCD's for your entertainment.
 
-[![XKCD ](/public/files/password_strength.png)](https://xkcd.com/936/)
+[![XKCD ](password_strength.png)](https://xkcd.com/936/)
 
 This XKCD is a little misleading though, a good diceware passphrase needs more than 4 words. My current recommendation is to use `8 words` or more. If you can remember 10 words, use 10.
 
