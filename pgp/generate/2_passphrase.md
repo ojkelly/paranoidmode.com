@@ -1,6 +1,4 @@
-----
-
-## 1. Generate your `diceware` passphrase
+# Generate your `diceware` passphrase
 
 Passphrase? Don't you mean password?<br>
 **No.**
