@@ -40,16 +40,6 @@ You might also want to get some tamper evident bags to store your `private key` 
 
 ----
 
-### **Assumed Knowledge**
-
-Writing a guide like this, it's very hard to cater to all knowledge levels. It's hard enough
-just to remember exactly how to setup your keys. So this guide has been written with the following assumptions:
-
-  - You are using Linux, Unix or OS X
-  - You can use terminal
-     - You don't need to have mastered it, but you need to know what it is, and how to open it up
-
-
 
 ### **What you will have after this**
 
