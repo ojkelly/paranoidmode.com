@@ -24,4 +24,5 @@
    * [Using a Password Manager](using_a_password_manager.md)
    * [Design your threat model](design_your_threat_model.md)
    * [ssh opsec](opsec/ssh/ssh_opsec.md)
+       * Harden your ssh_config
 
