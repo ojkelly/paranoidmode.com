@@ -1,2 +1,3 @@
-# ssh opsec
+# SSH OPSEC
 
+How to secure `ssh`.
