@@ -14,7 +14,7 @@ You should follow this guide if you are a **programmer**, **journalist**, **netw
 
 Writing a guide like this, it's very hard to cater to all knowledge levels. This guide is written with the following assumptions:
 
-  - You are using Linux, Unix or OS X
+  - You are using Linux, Unix or OS X (accepting pull requests for Windows instructions)
   - You can use terminal
      - You don't need to have mastered it, but you need to know what it is, and how to open it up
 
