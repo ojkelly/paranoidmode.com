@@ -1,15 +1,5 @@
 # Generate your root PGP key
 
-### **What you will be able to do**
-
-After completing this guide you will be able to:
-
- - receive and `decrypt` files and emails encrpyted with your `public key`,
- - `sign` files, text and other peoples public keys
- - `authenticate` yourself using PGP
-
-
-----
 
 ### **What you will need**
 
