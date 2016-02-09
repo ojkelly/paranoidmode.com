@@ -31,7 +31,7 @@ You should also know that there are known malware programs who's only job is to 
 
       -----BEGIN PGP PRIVATE KEY BLOCK-----
 
-So yes, be paranoid about your private key touching any networked computer, it will take barely a second for the key to be exfiltrated, and rendered insecure.
+So yes, be paranoid about your private key touching any networked computer, it will take barely a second for the key to be exfiltrated, and rendered insecure. And you will likely never know if this has actually happend.
 
 ### PGP and GPG
 
