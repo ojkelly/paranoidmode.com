@@ -2,7 +2,7 @@
 
 An opinionated guide to setting up and using PGP keys in a [post-Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) world.
 
-I wrote for a `threat model` of either a nation state or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
+This is written for a `threat model` of either a nation state or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
 
 The hardware required can be purchased for less than $150USD. If you have an old computer lying around you can probably use that.
 
