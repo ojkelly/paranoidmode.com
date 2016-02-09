@@ -2,7 +2,7 @@
 
 An opinionated guide to setting up and using PGP keys in a post-Snowden world.
 
-This site is written for a `threat model` of either a nation state or close enough to one.
+I wrote for a `threat model` of either a nation state or close enough to one. As such is may need more hardware than you expect. 
 
 ### **What you will be able to do**
 
