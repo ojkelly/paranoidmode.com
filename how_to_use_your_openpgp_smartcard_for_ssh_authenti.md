@@ -5,11 +5,9 @@ How to use your PGP key and `OpenPGP Smart Card` to authenticate with SSH.
 
 ## Server
 
-To use your `subkey`, you need to export the `public key` of your `authentication subkey`,
-in a format that `ssh` can use.
+To use your `subkey`, you need to export the `public key` of your `authentication subkey`, in a format that `ssh` can use.
 
-If you don't know the fingerprint of your `authentication subkey` you can open up `--edit-key`
-to find out. In this case, we are editing the root key, so use that fingerprint.
+If you don't know the fingerprint of your `authentication subkey` you can open up `--edit-key` to find out. In this case, we are editing the root key, so use that fingerprint.
 
     owen@everydayLaptop:~$  gpg2 --edit-key 2F95015B
     gpg (GnuPG) 2.0.29; Copyright (C) 2015 Free Software Foundation, Inc.
