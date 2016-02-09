@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "editlink",
         "edit-link"
     ],
     "pluginsConfig": {}
