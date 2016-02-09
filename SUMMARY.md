@@ -12,7 +12,7 @@
        * [How to use your OpenPGP SmartCard for SSH Authentication](how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
 * [opsec](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
-   * What you need to know about metadata
+   * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
    * Using a Password Manager
    * [Design your threat model](design_your_threat_model.md)
 
