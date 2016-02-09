@@ -71,9 +71,7 @@ First run `ssh-add -L` to list all identities in `ssh-agent`.
     owen@everydayLaptop:~$ ssh-add -L
     ssh-rsa AAAABadadasdasdasda...truncated /Users/owen/.ssh/id_rsa
 
-If you get back a response pointing to a file in the `~/.ssh` directory, it means you
-currently have a `ssh keypair` setup. We need to unlink this from `ssh-agent` in order to
-use your `gpg` keypair`.
+If you get back a response pointing to a file in the `~/.ssh` directory, it means you currently have a `ssh keypair` setup. We need to unlink this from `ssh-agent` in order to use your `gpg` keypair`.
 
 Type `ssh-add -D` to remove all identities in `ssh-agent`.
 
