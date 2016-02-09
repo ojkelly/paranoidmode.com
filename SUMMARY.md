@@ -23,4 +23,5 @@
    * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
    * [Using a Password Manager](using_a_password_manager.md)
    * [Design your threat model](design_your_threat_model.md)
+   * ssh opsec
 
