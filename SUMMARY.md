@@ -7,5 +7,5 @@
        * [Generate your root PGP key](generate_your_root_pgp_key.md)
    * Usage
        * [Keybase.io](keybaseio.md)
-       * How to change your passphrase
+       * [How to change your passphrase](how_to_change_your_passphrase.md)
 
