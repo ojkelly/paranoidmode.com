@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91febec6-f4d4-4452-9486-11257328c7b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/10_publish-public-key.md" afterPath="$PROJECT_DIR$/pgp/generate/10_publish-public-key.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/11_next-steps.md" afterPath="$PROJECT_DIR$/pgp/generate/11_next-steps.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/1_about.md" afterPath="$PROJECT_DIR$/pgp/generate/1_about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/2_passphrase.md" afterPath="$PROJECT_DIR$/pgp/generate/2_passphrase.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md" afterPath="$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md" afterPath="$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/5_tails.md" afterPath="$PROJECT_DIR$/pgp/generate/5_tails.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/6_generate-private-key.md" afterPath="$PROJECT_DIR$/pgp/generate/6_generate-private-key.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/7_generate-revocation-certificate.md" afterPath="$PROJECT_DIR$/pgp/generate/7_generate-revocation-certificate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/8_backup-private-key.md" afterPath="$PROJECT_DIR$/pgp/generate/8_backup-private-key.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/9_generate-subkeys.md" afterPath="$PROJECT_DIR$/pgp/generate/9_generate-subkeys.md" />
     </list>
     <ignored path="paranoidmode-com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +48,7 @@
             <entry file="file://$PROJECT_DIR$/pgp/generate/2_passphrase.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-25.655172">
-                  <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+                  <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -69,7 +61,7 @@
             <entry file="file://$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-0.0">
-                  <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+                  <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -82,7 +74,7 @@
             <entry file="file://$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-0.0">
-                  <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+                  <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -104,11 +96,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="6_generate-private-key.md" pinned="false" current-in-tab="false">
+          <file leaf-file-name="6_generate-private-key.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pgp/generate/6_generate-private-key.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0">
-                  <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -169,10 +161,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="11_next-steps.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="11_next-steps.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pgp/generate/11_next-steps.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.12755102">
+                <state vertical-scroll-proportion="-3.4482758">
                   <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                   <folding />
                 </state>
@@ -200,15 +192,15 @@
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/pgp/generate/2_passphrase.md" />
         <option value="$PROJECT_DIR$/pgp/generate/5_tails.md" />
-        <option value="$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md" />
-        <option value="$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md" />
-        <option value="$PROJECT_DIR$/pgp/generate/6_generate-private-key.md" />
         <option value="$PROJECT_DIR$/pgp/generate/7_generate-revocation-certificate.md" />
         <option value="$PROJECT_DIR$/pgp/generate/8_backup-private-key.md" />
         <option value="$PROJECT_DIR$/pgp/generate/9_generate-subkeys.md" />
         <option value="$PROJECT_DIR$/pgp/generate/10_publish-public-key.md" />
         <option value="$PROJECT_DIR$/pgp/generate/11_next-steps.md" />
         <option value="$PROJECT_DIR$/pgp/generate/1_about.md" />
+        <option value="$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md" />
+        <option value="$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md" />
+        <option value="$PROJECT_DIR$/pgp/generate/6_generate-private-key.md" />
       </list>
     </option>
   </component>
@@ -807,7 +799,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="564000" />
+    <option name="totallyTimeSpent" value="611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -890,51 +882,7 @@
     <entry file="file://$PROJECT_DIR$/pgp/generate/2_passphrase.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.655172">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pgp/generate/5_tails.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pgp/generate/6_generate-private-key.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -986,9 +934,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/1_about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8469388">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pgp/generate/11_next-steps.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12755102">
+        <state vertical-scroll-proportion="-3.4482758">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
@@ -997,10 +956,43 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pgp/generate/1_about.md">
+    <entry file="file://$PROJECT_DIR$/pgp/generate/3_prepare-yubikey.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8469388">
-          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/4_prepare-usbs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/5_tails.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/6_generate-private-key.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>

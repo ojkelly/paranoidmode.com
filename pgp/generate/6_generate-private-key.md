@@ -1,4 +1,4 @@
-## Generate your private key
+# Generate your private key
 
 Open up Terminal on Tails and type `sudo gpg2 --gen-key`.
 
