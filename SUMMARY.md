@@ -5,6 +5,16 @@
    * Generate
        * [Generate your root PGP key](pgp/generate/1_about.md)
        * [Generate your diceware passphrase](pgp/generate/2_passphrase.md)
+       * [Prepare your Yubikey](3_prepare-yubikey.md)
+       * [Prepare your USBs](4_prepare-usbs.md)
+       * [Boot Tails on your air-gapped laptop](5_tails.md)
+       * [Generate your private key](6_generate-private-key.md)
+       * [Generate revocation certificate](7_generate-revocation-certificate.md)
+       * [Backup your private key](8_backup-private-key.md)
+       * [Generate your subkeys](9_generate-subkeys.md)
+       * [Publish your public key](10_publish-public-key.md)
+       * [Done](11_next-steps.md)
+
    * Usage
        * [Keybase.io](keybaseio.md)
        * [How to change your passphrase](how_to_change_your_passphrase.md)
