@@ -1,6 +1,10 @@
 {
-    "plugins": [
-        "edit-link"
-    ],
-    "pluginsConfig": {}
+    "gitbook": "2.0.1",
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/ojkelly/paranoidmode.com/edit/master/",
+            "label": "Edit This Page"
+        }
+    }
 }
