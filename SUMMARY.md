@@ -13,4 +13,5 @@
 * [opsec](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](automatically_lock_your_computer_when_you_remove_y.md)
    * What you need to know about metadata
+   * Using a Password Manager
 
