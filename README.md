@@ -10,6 +10,16 @@ You should follow this guide if you are a **programmer**, **journalist**, **netw
 
 ----
 
+### **Assumed Knowledge**
+
+Writing a guide like this, it's very hard to cater to all knowledge levels. It's hard enough
+just to remember exactly how to setup your keys. So this guide has been written with the following assumptions:
+
+  - You are using Linux, Unix or OS X
+  - You can use terminal
+     - You don't need to have mastered it, but you need to know what it is, and how to open it up
+
+
 ### **Some things you might not know**
 
   - `crtl-c` will cancel a running command in terminal
