@@ -12,7 +12,7 @@ You should follow this guide if you are a **programmer**, **journalist**, **netw
 
 ### **Assumed Knowledge**
 
-Writing a guide like this, it's very hard to cater to all knowledge levels. This guide is written with the following assumptions:
+Writing a guide like this, it's hard to cater to all knowledge levels. This guide is written with the following assumptions:
 
   - You are using Linux, Unix or OS X (accepting pull requests for Windows instructions)
   - You can use terminal
