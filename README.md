@@ -9,6 +9,8 @@ The hardware required can be purchased for less than $150USD. If you have an old
 You should follow this guide if you are a **programmer**, **journalist**, **network administrator** or **sysadmin**, or someone who just uses `ssh` regularly.
 
 
+
+
 ### **What you will be able to do**
 
 After completing this guide you will be able to:
