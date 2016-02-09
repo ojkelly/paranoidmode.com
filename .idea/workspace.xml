@@ -163,8 +163,8 @@
           <file leaf-file-name="book.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/book.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.16835018">
-                  <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+                <state vertical-scroll-proportion="0.033670034">
+                  <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -796,7 +796,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831000" />
+    <option name="totallyTimeSpent" value="992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -1002,8 +1002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16835018">
-          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.033670034">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
