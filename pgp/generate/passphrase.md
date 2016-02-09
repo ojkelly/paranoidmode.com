@@ -28,7 +28,7 @@ Here's what a 10 word passphrase looks like
 > There are websites that will generate diceware passphrases for you. There is only **one** way to make a diceware passphrase worth using. Dice.
 > The problem with letting a computer generate it for you, is that is lacks the amount of entropy you can get with a dice and is significantly less secure as a result.
 
-Download and print out [this Diceware list](/public/files/dicewarewordlist.pdf) - it's 37 pages.<br>
+Download and print out [this Diceware list](/dicewarewordlist.pdf) - it's 37 pages.<br>
 You can also get this list from the [Diceware hompage](http://world.std.com/~reinhold/diceware.html).<br>
 Or get a version [signed by the creator](http://world.std.com/~reinhold/diceware.wordlist.asc).<br>
 
