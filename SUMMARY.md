@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [pgp](pgp.md)
    * Generate
-       * [Generate your root PGP key](generate_your_root_pgp_key.md)
+       * [Generate your root PGP key](pgp/generate/generateyour_root_pgp_key_md.md)
    * Usage
        * [Keybase.io](keybaseio.md)
        * [How to change your passphrase](how_to_change_your_passphrase.md)
