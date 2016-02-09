@@ -1,5 +1,5 @@
 {
-    "gitbook": "2.6.7",
+    "gitbook": "2.x.x",
     "plugins": ["edit-link"],
     "pluginsConfig": {
         "edit-link": {
