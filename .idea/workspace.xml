@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91febec6-f4d4-4452-9486-11257328c7b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pgp/generate/passphrase.md" afterPath="$PROJECT_DIR$/pgp/generate/passphrase.md" />
     </list>
     <ignored path="paranoidmode-com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,10 +65,36 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="generate-private-key.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pgp/generate/generate-private-key.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="passphrase.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pgp/generate/passphrase.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.33840948">
+                  <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/SUMMARY.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.642978">
+                <state vertical-scroll-proportion="-13.103448">
                   <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
                   <folding />
                 </state>
@@ -106,6 +132,7 @@
         <option value="$PROJECT_DIR$/pgp/generate/6_generate-private-key.md" />
         <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/pgp/generate/passphrase.md" />
       </list>
     </option>
   </component>
@@ -704,7 +731,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1438000" />
+    <option name="totallyTimeSpent" value="1461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -784,10 +811,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/generate-private-key.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.642978">
+        <state vertical-scroll-proportion="-13.103448">
           <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgp/generate/passphrase.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33840948">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
           <folding />
         </state>
       </provider>
