@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [pgp](pgp.md)
    * Generate
        * [Generate your root PGP key](generate_your_root_pgp_key.md)
