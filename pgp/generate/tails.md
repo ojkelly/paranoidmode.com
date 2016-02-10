@@ -18,15 +18,12 @@ You barely need anything to run Tails. So get a dedicated laptop for airgapped w
 
 Okay let's move on.
 
-Plug your Tails usb into your laptop and boot from the USB. You might
- need to toggle the boot order in the BIOS to set the USB drive as the first boot media.
+Plug your Tails usb into your laptop and boot from the USB. You might need to toggle the boot order in the BIOS to set the USB drive as the first boot media.
 
-When you boot Tails you're greeted with a pre-launch wizard that gives you some options. The only thing you need
-to do is set an `admin password`. There are other options you can set but as this device never touches a
+When you boot Tails you're greeted with a pre-launch wizard that gives you some options. The only thing you need to do is set an `admin password`. There are other options you can set but as this device never touches a
 network you can just set the admin password and launch Tails.
 
-You need to admin password set so that you can use `sudo` to interact with the `OpenPGP Smart Card`. The
-drivers don't allow you to interact if you're not `root` (which is what `sudo` does).
+You need to admin password set so that you can use `sudo` to interact with the `OpenPGP Smart Card`. The drivers don't allow you to interact if you're not `root` (which is what `sudo` does).
 
 A quick and easy way to mount a USB drive with Tails is to open it with the <abbr title="Graphical User Interface">GUI</abbr>.
 
