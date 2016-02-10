@@ -10,9 +10,11 @@ Alice now wants the file she encrypted. She unlocks (decrypts) the box with her 
 
 Pretty simple, one `key` both encrypts and decrypts our box.
 
-### Threats
+### Benefits and Threats
 
-Symmetric encryption has it's benifits, but it also has threats that prevent it usage in all cases.
+Symmetric encryption has it's benefits, but it also has threats that prevent it usage in all cases.
+
+
 
 
 {% youtube %}https://www.youtube.com/watch?v=MsqqpO9R5Hc{% endyoutube %}
