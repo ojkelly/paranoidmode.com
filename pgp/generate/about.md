@@ -1,7 +1,6 @@
 # Generate your root PGP key
 
-
-### **What you will need**
+## **What you will need**
 
 Before you get started you will need to get the following:
 
@@ -37,11 +36,7 @@ Before you get started you will need to get the following:
 
 You might also want to get some tamper evident bags to store your `private key` backups inside of. I'll leave this up to you.
 
-
-----
-
-
-### **What you will have after this**
+## **What you will have after this**
 
 Once you've completed this guide, you will have the following:
 
