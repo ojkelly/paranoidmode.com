@@ -3,7 +3,7 @@
 How to use your PGP key and `OpenPGP Smart Card` to authenticate with SSH.
 
 
-## Server
+## **Server**
 
 To use your `subkey`, you need to export the `public key` of your `authentication subkey`, in a format that `ssh` can use.
 
@@ -39,7 +39,7 @@ it to `~/.ssh/authorized_keys` on every server you need to ssh into.
     owen@everydayLaptop:~$ gpgkey2ssh 5DA2A8B2
     ssh-rsa AAAAB...== owen@owenkelly.com.au
 
-## OS X
+## **OS X**
 
 First add support for `ssh` in `gpg-agent`:
 
