@@ -20,10 +20,7 @@ Here's what a 10 word passphrase looks like
 
     witt splay ash fried arena ryan apathy chief evoke kane
 
-
-
-
-###  Let's make a diceware passphrase
+## **Let's make a diceware passphrase**
 
 > There are websites that will generate diceware passphrases for you. There is only **one** way to make a diceware passphrase worth using. Dice.
 > The problem with letting a computer generate it for you, is that is lacks the amount of entropy you can get with a dice and is significantly less secure as a result.
@@ -32,7 +29,7 @@ Download and print out [this Diceware list](dicewarewordlist.pdf) - it's 37 page
 You can also get this list from the [Diceware hompage](http://world.std.com/~reinhold/diceware.html).<br>
 Or get a version [signed by the creator](http://world.std.com/~reinhold/diceware.wordlist.asc).<br>
 
-So you now have 37 printed pages which is where you will source a passphrase from. If you decide not to print out the list, **do not search through the page to find your words**. Scroll through the page and scan with your eyes.
+You now have 37 printed pages which is where you will source a passphrase from. If you decide not to print out the list, **do not search through the page to find your words**. Scroll through the page and scan with your eyes.
 
 Take your dice and roll 5 (or 1 dice 5 times) for every word you are going to generate.
 
