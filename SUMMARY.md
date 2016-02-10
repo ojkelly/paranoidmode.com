@@ -18,6 +18,7 @@
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
 * [Operational Security (OPSEC)](opsec.md)
+   * [Subkeys](opsec/subkeys.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
    * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
    * [Using a Password Manager](using_a_password_manager.md)
@@ -26,5 +27,4 @@
        * [Harden your ssh_config](opsec/ssh/harden_your_sshconfig.md)
    * [How to make an airgapped computer](opsec/airgapmd.md)
    * Harden your Yubikey
-   * [Subkeys](opsec/subkeys.md)
 
