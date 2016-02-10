@@ -10,8 +10,7 @@
 ensure it cannot be exfiltrated.
 
 
-**Did you read the big message above? You did? So there's absolutely
-no wireless radios or data storage media other than you're USBs?**
+**Did you read the big message above? You did? So there's no wireless radios or data storage media other than you're USBs?**
 
 If you cheap out here you might be putting yourself at risk.
 You should be able to get a super crappy laptop for $150 or less off ebay.
