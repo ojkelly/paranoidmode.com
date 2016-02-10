@@ -17,7 +17,7 @@
        * How to change your passphrase
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
-   * Root Key
+   * [Root Key](pgp/root_key.md)
    * [Subkeys](opsec/subkeys.md)
 * [Operational Security (OPSEC)](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
