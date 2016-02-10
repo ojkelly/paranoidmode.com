@@ -23,7 +23,7 @@ If Alice decides to send a box locked with the key `secret` to Bob, she also nee
 
 Symmetric encryption by itself is dangerous, in that it's risky. However when paired with asymmetric encryption, we can use the benefits of both. This is what PGP does.
 
-## **Asymmetric Encryption**
+## **Asymmetric Encryption / Key Pairs**
 
 
 
