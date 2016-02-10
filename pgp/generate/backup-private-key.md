@@ -20,7 +20,7 @@ as well.
 
 ### Paperkey
 
-Generating the `paperkey` is a similar process. We use a little unix feature `|` the pipe operater, to pipe the output of
+Generating the `paperkey` is a similar process. We use a little UNIX feature `|` the pipe operator, to pipe the output of
 the first function into the second function, `gpg2` into `paperkey` in this case, then we use `>>` to save the output of `paperkey`
 to a file called `2F95015B-paperkey.txt`, make sure to substitute your fingerprint.
 
