@@ -21,11 +21,13 @@ Symmetric encryption is fast, much faster than asymmetric encryption.
 
 If Alice decides to send a box locked with the key `secret` to Bob, she also needs to tell Bob the key. It's possible to use a different channel to send the key. In all cases the key has a high risk of exfiltration (theft), rendering the encryption useless.
 
-Symmetric encryption by itself is dangerous, in that it's risky. However 
+Symmetric encryption by itself is dangerous, in that it's risky. However when paired with asymmetric encryption, we can use the benefits of both. This is what PGP does.
 
+
+
+
+## **More information**
 
 {% youtube %}https://www.youtube.com/watch?v=MsqqpO9R5Hc{% endyoutube %}
 
 I'd also strongly reccommend watching the entire [Khan Academy course on cryptography](https://www.khanacademy.org/computing/computer-science/cryptography).
-
-## **Detailed Explanation**
