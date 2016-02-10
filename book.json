@@ -3,7 +3,7 @@
     "description": "An opinionated guide to setting up and using PGP keys in a post-Snowden world.",
     "language":"en",
     "gitbook": "2.x.x",
-    "plugins": ["edit-link"],
+    "plugins": ["edit-link", "youtube"],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/ojkelly/paranoidmode.com/edit/master/",
