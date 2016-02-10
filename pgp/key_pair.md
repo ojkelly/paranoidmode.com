@@ -16,7 +16,9 @@ Symmetric encryption has it's benefits, but it also has threats that prevent it 
 
 Symmetric encryption is fast, much faster than asymmetric encryption.
 
-But, if the `key` is 
+If Alice decides to send a box locked with the key `secret` to Bob, she also needs to tell Bob the key. It's possible to use a different channel to transmit the key. In all cases the key has a high risk of being exfiltrated, rendering the encryption useless.
+
+Symmetric encryption by itself is dangerous, in that it's risky. However 
 
 
 {% youtube %}https://www.youtube.com/watch?v=MsqqpO9R5Hc{% endyoutube %}
