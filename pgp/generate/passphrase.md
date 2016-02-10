@@ -23,7 +23,7 @@ Here's what a 10 word passphrase looks like
 ## **Let's make a diceware passphrase**
 
 > There are websites that will generate diceware passphrases for you. There is only **one** way to make a diceware passphrase worth using. Dice.
-> The problem with letting a computer generate it for you, is that is lacks the amount of entropy you can get with a dice and is significantly less secure as a result.
+> The problem with letting a computer generate it for you, is that is lacks the amount of entropy you can get with a dice and is less secure as a result.
 
 Download and print out [this Diceware list](dicewarewordlist.pdf) - it's 37 pages.<br>
 You can also get this list from the [Diceware hompage](http://world.std.com/~reinhold/diceware.html).<br>
@@ -37,11 +37,11 @@ For 8 words you'll roll 40 dice, for 10 words roll 50.
 
 Find a nice spot where you can give your dice a good roll, something more than half a meter. I roll them on the floor.
 
-Starting from the top write the numbers down on a new clean sheet of paper. The dice will not distribute evenly or in a neat line, so do your best to scan left to right starting from the top. Or any way really, just don't double up.
+Starting from the top write the numbers down on a new clean sheet of paper. The dice will not distribute evenly or in a neat line, so do your best to scan left to right starting from the top. Or any way, just don't double up.
 
     64312552461253126346124315246512345164512465135156
 
-Once you have all your numbers, you'll likely find it easy to group the numbers into clusters of 5.
+Once you have all your numbers, you'll find it easy to group the numbers into clusters of 5.
 
     (64312)(55246)(12531)(26346)(12431)(52465)(12345)(16451)(24651)(35156)
 
@@ -58,7 +58,7 @@ After that translate the 5 digit numbers into their diceware word.
     (24651) = evoke
     (35156) = kane
 
-Some people like to come up with a story to help them remember. This isn't my passphrase, and I'm not very good at the whole make a story thing, so enjoy this:
+Some people like to come up with a story to help them remember. This isn't my passphrase, and I'm not  good at the whole make a story thing, so enjoy this:
 
 > **Witt** **splay**ed the **ash** while **fried** played in the **arena** with **ryan** who had **apathy** to the **chief**. Time to **evoke** **kane**.
 
