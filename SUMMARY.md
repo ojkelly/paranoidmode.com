@@ -26,5 +26,4 @@
        * [Harden your ssh_config](opsec/ssh/harden_your_sshconfig.md)
    * [How to make an airgapped computer](opsec/airgapmd.md)
    * Harden your Yubikey
-   * [Everything you need to know about subkeys](opsec/everything_you_need_to_know_about_subkeys.md)
 
