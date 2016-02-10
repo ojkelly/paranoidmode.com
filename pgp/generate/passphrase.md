@@ -62,8 +62,7 @@ Some people like to come up with a story to help them remember. This isn't my pa
 
 > **Witt** **splay**ed the **ash** while **fried** played in the **arena** with **ryan** who had **apathy** to the **chief**. Time to **evoke** **kane**.
 
-The point with diceware passphrases are that they aren't common groupings of words. The result isn't something that follows normal speech. As that would be predictable and less secure. Your passphrase story is likely
-just a manner to make the keywords a bit less nonsensical so you can remember them.
+The point with diceware passphrases are that they aren't common groupings of words. The result isn't something that follows normal speech. As that would be predictable and less secure. Your passphrase story is just a method to make the keywords a bit less nonsensical so you can remember them.
 
 You should now have a sheet of paper with 40 or 50 numbers on it, and your diceware passphrase below it.
 Keep this paper  safe. Fold it up and put it in your wallet. You will need to refer to it for a couple of days until you memorize the password. After that you might want to store it with your `private key` backups.
