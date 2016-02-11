@@ -43,7 +43,7 @@ It's vital that you never lose ultimate control of your `private key`. This mean
 
 #### Private Key
 
-Your `private key` is your `public key` plus the secret information that you need to make the hard problem of decryption, into an easy problem.
+Your `private key` is your `public key` plus the `secret information` that you need to make the hard problem of decryption, into an easy problem.
 
 
 #### Public Key
