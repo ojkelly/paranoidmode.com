@@ -52,6 +52,7 @@ Symmetric encryption by itself is dangerous, in that it's risky. But when paired
 
 Asymmetric encryption is different in that you need one `key` to encrypt and a different `key` to decrypt. The way this works is by using a mathematical function that is easy in one direction and hard in the other.
 
+We'll go into detail in the [next chapter](/pgp/key_pair.md).
 
 
 ## Threats to PGP
