@@ -28,6 +28,8 @@ Here's a diagram of how that works.
 
 *Source: [PGP diagram.svg by xaedes & jfreax & Acdx](https://en.wikipedia.org/wiki/File:PGP_diagram.svg)*
 
+Let break this down into the two main parts and explain how they work.
+
 ## **Symmetric Encryption**
 
 Alice has a wants to encrypt a file. She puts it in a box with a lock. The `key` to the lock is `secret`. She keeps a copy of this `key` to unlock the box later.
@@ -52,7 +54,9 @@ Asymmetric encryption is different in that you need one `key` to encrypt and a d
 
 We need the encryption function to be easy to do, and the decryption to be hard.
 
-I could explain this, but Khan academy have done it so well, you need to watch this first.
+
+
+
 
 {% youtube %}https://www.youtube.com/watch?v=EPXilYOa71c{% endyoutube %}
 
