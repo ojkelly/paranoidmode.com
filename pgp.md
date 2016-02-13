@@ -4,6 +4,8 @@ Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/sub
 
 PGP uses both asymmetric encryption and symmetric encryption. When encrypting a file (or message), the file is encrypted with a symmetric key, and the symmetric key is encrypted with asymmetric encryption.
 
+
+
 ## **Symmetric Encryption**
 
 Alice has a wants to encrypt a file. She puts it in a box with a lock. The `key` to the lock is `secret`. She keeps a copy of this `key` to unlock the box later.
