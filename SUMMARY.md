@@ -23,6 +23,7 @@
        * Code Signing
            * Xcode
            * Git commits
+       * How to encrypt a file for someone else
 * [Operational Security (OPSEC)](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
    * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
