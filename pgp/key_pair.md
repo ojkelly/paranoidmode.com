@@ -6,7 +6,7 @@
 
 {% youtube %}https://www.youtube.com/watch?v=Z8M2BTscoD4{% endyoutube %}
 
-There's a heap of videos in that course, [that are all worth watching](https://www.khanacademy.org/computing/computer-science/cryptography).
+
 
 ### PGP Key pairs
 
@@ -26,7 +26,7 @@ Your `public key` is best thought of as a schematic for a lock. It describes pre
 It is possible to unlock the lock through a process called factorization. But with traditional computers and when you're using large key sizes, it's technically not feasible.
 
 
-
+If you find this fascinating you need to watch the [Khan Academy course on Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography).
 
 ---
 ###### Sources
