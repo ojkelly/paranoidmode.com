@@ -2,6 +2,8 @@
 
 An opinionated guide to setting up and using PGP keys in a [post-Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) world.
 
+
+
 This is written for a `threat model` of either a `nation state` or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
 
 The hardware required can be purchased for less than $150USD. If you have an old computer lying around you can probably use that.
@@ -19,7 +21,7 @@ Writing a guide like this, it's hard to cater to all knowledge levels. This guid
      - You don't need to have mastered it, but you need to know what it is, and how to open it up
 
 
-### **Some things you might not know**
+### **Some things you might not know that will help you**
 
   - `crtl-c` will cancel a running command in terminal
     - useful when something gets stuck, you hit the wrong command or you need to stop something
