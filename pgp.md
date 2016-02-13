@@ -4,7 +4,7 @@ Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/sub
 
 PGP uses both asymmetric encryption and symmetric encryption. When encrypting a file (or message), the file is encrypted with a symmetric key, and the symmetric key is encrypted with asymmetric encryption.
 
-![](pgp/PGP_diagram.svg)
+![PGP diagram.svg by xaedes & jfreax & Acdx](pgp/PGP_diagram.svg)
 
 *Source: [PGP diagram.svg by xaedes & jfreax & Acdx](https://en.wikipedia.org/wiki/File:PGP_diagram.svg)*
 
