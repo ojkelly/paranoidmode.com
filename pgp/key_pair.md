@@ -4,7 +4,7 @@
 
 
 
-{% youtube %}https://www.youtube.com/watch?v=EPXilYOa71c{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=Z8M2BTscoD4{% endyoutube %}
 
 There's a heap of videos in that course, [that are all worth watching](https://www.khanacademy.org/computing/computer-science/cryptography).
 
