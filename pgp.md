@@ -19,6 +19,8 @@ Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/sub
  With PGP and GPG often they're used interchangeably. Don't be too concerned if you get them mixed up.
  When referring to PGP or GPG keys, everyone (including you now) knows you mean a public/private keypair.
 
+Yes the names are confusing and probably counterproductive.
+
 ## PGP
 
 PGP uses both asymmetric encryption and symmetric encryption. When encrypting a file (or message), the file is encrypted with a symmetric key, and the symmetric key is encrypted with asymmetric encryption.
