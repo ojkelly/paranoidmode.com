@@ -4,7 +4,7 @@ An opinionated guide to setting up and using PGP keys in a [post-Snowden](https:
 
 > **NOTE:** I have not completed this guide yet. There's a heap of stuff stubbed out, or unstarted.
 >
-> I have finished the [guide on creating your keys](/pgp.), so it's worth a read if you need to do it.
+> I have finished the [guide on creating your keys](/pgp/generate/passphrase.md), so it's worth a read if you need to do it.
 
 > Owen
 
