@@ -4,6 +4,7 @@
 * [Pretty Good Privacy (PGP)](pgp.md)
    * [Key pair](pgp/key_pair.md)
    * [Root Key](pgp/root_key.md)
+   * [Subkeys](pgp/subkeys.md)
    * [Generate your root PGP key](pgp/generate/about.md)
        * [Generate your diceware passphrase](pgp/generate/passphrase.md)
        * [Prepare your Yubikey](pgp/generate/prepare-yubikey.md)
@@ -22,7 +23,6 @@
        * Code Signing
            * Xcode
            * Git commits
-   * [Subkeys](pgp/subkeys.md)
 * [Operational Security (OPSEC)](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
    * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
