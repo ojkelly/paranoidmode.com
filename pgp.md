@@ -2,8 +2,7 @@
 
 Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/subkeys.md).
 
-
-Key pairs are a practical application of asymmetric encryption. 
+PGP uses both asymmetric encryption and symmetric encryption. When encrypting a file (or message), the file is encrypted with a symmetric key, and the symmetric key is encrypted with asymmetric encryption.
 
 ## **Symmetric Encryption**
 
