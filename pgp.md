@@ -4,12 +4,9 @@ Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/sub
 
 ### PGP and GPG
 
-> Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic
-  privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting
-  texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail
-  communications. It was created by Phil Zimmermann in 1991. <br>
-  <br>
-  [Wikipedia](https://en.wikipedia.org/Pretty_Good_Privacy)
+> Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications. It was created by Phil Zimmermann in 1991. 
+
+> [Wikipedia](https://en.wikipedia.org/Pretty_Good_Privacy)
 
 **Pretty Good Privacy (PGP)** has since been defined as a standard called OpenPGP. It's outlined in [RFC4880](https://tools.ietf.org/html/rfc4880).
 [Requests For Comment](https://en.wikipedia.org/wiki/Request_for_Comments) at the IETF are standards documents even if the name doesn't immediately suggest it.
