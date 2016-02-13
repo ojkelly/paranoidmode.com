@@ -9,7 +9,7 @@ Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/sub
 > [Wikipedia](https://en.wikipedia.org/Pretty_Good_Privacy)
 
 **Pretty Good Privacy (PGP)** has since been defined as a standard called OpenPGP. It's outlined in [RFC4880](https://tools.ietf.org/html/rfc4880).
-[Requests For Comment](https://en.wikipedia.org/wiki/Request_for_Comments) at the IETF are standards documents even if the name doesn't immediately suggest it.
+[Requests For Comment](https://en.wikipedia.org/wiki/Request_for_Comments) at the <acroynm title="Internet Engineering Taskforce">IETF</acroynm> are standards documents even if the name doesn't immediately suggest it.
 
 **GNU Privacy Guard (GPG)** also GnuPG. GPG is an implementation of OpenPGP and can be found on Linux, OS X and Windows.
 
