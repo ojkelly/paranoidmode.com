@@ -2,6 +2,14 @@
 
 An opinionated guide to setting up and using PGP keys in a [post-Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) world.
 
+> **NOTE:** I have not completed this guide yet. There's a heap of stuff stubbed out, or unstarted.
+>
+> I have finished the [guide on creating your keys](/pgp.), so it's worth a read if you need to do it.
+
+> Owen
+
+
+
 This is written for a `threat model` of either a `nation state` or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
 
 The hardware required can be purchased for less than $150USD. If you have an old computer lying around you can probably use that.
@@ -10,9 +18,8 @@ You should follow this guide if you are a **programmer**, **journalist**, **netw
 
 [https://github.com/ojkelly/paranoidmode.com](Pull requests) are welcome. There's an edit link on every page.
 
-----
 
-### **Assumed Knowledge**
+## **Assumed Knowledge**
 
 Writing a guide like this, it's hard to cater to all knowledge levels. This guide is written with the following assumptions:
 
@@ -21,7 +28,7 @@ Writing a guide like this, it's hard to cater to all knowledge levels. This guid
      - You don't need to have mastered it, but you need to know what it is, and how to open it up
 
 
-### **Some things you might not know that will help you**
+## **Some things you might not know that will help you**
 
   - `crtl-c` will cancel a running command in terminal
     - useful when something gets stuck, you hit the wrong command or you need to stop something
@@ -36,9 +43,7 @@ You should also know that there are known malware programs who's only job is to 
 So yes, be paranoid about your private key touching any networked computer, it will take barely a second for the key to be exfiltrated, and rendered insecure. And you will likely never know if this has actually happened.
 
 
-----
-
-### **What you will be able to do**
+## **What you will be able to do**
 
 After completing this guide you will be able to:
 
