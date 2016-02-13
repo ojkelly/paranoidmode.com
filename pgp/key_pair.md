@@ -26,3 +26,10 @@ Your `public key` is best thought of as a schematic for a lock. It describes pre
 It is possible to unlock the lock through a process called factorization. But with traditional computers and when you're using large key sizes, it's technically not feasible.
 
 
+
+
+---
+###### Sources
+ - [How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html)
+   - Detailed but heavy on the math.
+ - http://sergematovic.tripod.com/rsa1.html
