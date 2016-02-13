@@ -2,6 +2,25 @@
 
 Learn more about your [root key](pgp/root_key.md) and how [subkeys work](pgp/subkeys.md).
 
+### PGP and GPG
+
+> Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic
+  privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting
+  texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail
+  communications. It was created by Phil Zimmermann in 1991. <br>
+  <br>
+  [Wikipedia](https://en.wikipedia.org/Pretty_Good_Privacy)
+
+**Pretty Good Privacy (PGP)** has since been defined as a standard called OpenPGP. It's outlined in [RFC4880](https://tools.ietf.org/html/rfc4880).
+[Requests For Comment](https://en.wikipedia.org/wiki/Request_for_Comments) at the IETF are standards documents even if the name doesn't immediately suggest it.
+
+**GNU Privacy Guard (GPG)** also GnuPG. GPG is an implementation of OpenPGP and can be found on Linux, OS X and Windows.
+
+ With PGP and GPG often they're used interchangeably. Don't be too concerned if you get them mixed up.
+ When referring to PGP or GPG keys, everyone (including you now) knows you mean a public/private keypair.
+
+## PGP
+
 PGP uses both asymmetric encryption and symmetric encryption. When encrypting a file (or message), the file is encrypted with a symmetric key, and the symmetric key is encrypted with asymmetric encryption.
 
 Here's a diagram of how that works.
