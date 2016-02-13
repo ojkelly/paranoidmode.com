@@ -18,6 +18,7 @@
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
        * Code Signing
+           * Xcode
    * [Key pair](pgp/key_pair.md)
    * [Root Key](pgp/root_key.md)
    * [Subkeys](pgp/subkeys.md)
