@@ -12,3 +12,6 @@ In comparison to asymmetric encryption, both parties require the same `shared ke
 > Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications. It was created by Phil Zimmermann in 1991. 
 
 > [Wikipedia](https://en.wikipedia.org/Pretty_Good_Privacy)
+
+## Key pair
+
