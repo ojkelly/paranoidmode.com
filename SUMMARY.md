@@ -20,7 +20,7 @@
        * How to change your passphrase
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
-       * Code Signing
+       * [Code Signing](pgp/usage/code_signing.md)
            * Xcode
            * Git commits
        * How to encrypt a file for someone else
