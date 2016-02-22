@@ -9,4 +9,3 @@
 ## Links
 
 https://developers.yubico.com/yubico-piv-tool/
-https://developers.yubico.com/PIV/Introduction/Certificate_slots.html
