@@ -21,7 +21,7 @@
        * How to create new subkeys
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
        * [Code Signing](pgp/usage/code_signing.md)
-           * Xcode
+           * [Xcode](pgp/usage/code-signing/osx.md)
            * Git commits
        * How to encrypt a file for someone else
        * How to decrypt a file that was encrypted for you
