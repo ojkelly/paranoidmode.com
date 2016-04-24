@@ -1,12 +1,6 @@
 # Key pair
 
-
-
-
-
 {% youtube %}https://www.youtube.com/watch?v=Z8M2BTscoD4{% endyoutube %}
-
-
 
 ### PGP Key pairs
 
