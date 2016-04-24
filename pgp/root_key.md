@@ -4,7 +4,7 @@ Your root key is a key pair like all your sub-keys. The difference between a sub
 
 #### Long-lived key
 
-Your root key is the opposite of your sub-keys, in that it should be long-lived (if not permenant).
+Your root key is the opposite of your sub-keys, in that it should be long-lived (if not permanent). It is both used infrequently, and replaced infrequently. You should only need to replace your root key to upgrade it's key size. Other factors outside your control such as theft and so on will also require you to replace your root key.
 
 Your root key is stored in cold storage, and only ever used on a computer that cannot physically interact with any other device (air-gapped) and that doesn't remember anything after shut down (most likely Tails).
 
