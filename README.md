@@ -10,7 +10,7 @@ An opinionated guide to setting up and using PGP keys in a [post-Snowden](https:
 
 
 
-This is written for a `threat model` of either a `nation state` or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
+This is written for a threat model of either a nation state or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
 
 The hardware required can be purchased for less than $150USD. If you have an old computer lying around you can probably use that.
 
@@ -36,7 +36,7 @@ Writing a guide like this, it's hard to cater to all knowledge levels. This guid
   - In `Tails` and other Linux terminals to copy text from the terminal you use `Shift-Ctrl-C` and `Shit-Ctrl-V`
   - In `Tails` you need to be root to access an OpenPGP smartcard (that's the Yubikey)
 
-You should also know that there are known malware programs who's only job is to scan everything it can looking for `private keys`. These keys are super obvious as they always start with:
+You should also know that there are known malware programs who's only job is to scan everything it can looking for private keys. These keys are super obvious as they always start with:
 
       -----BEGIN PGP PRIVATE KEY BLOCK-----
 
