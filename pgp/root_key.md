@@ -2,6 +2,10 @@
 
 Your root key is a key pair like all your sub-keys. The difference between a sub-key and your root key, is that your root key is almost never used, and only allowed to certify other keys. It cannot be used for `encryption`, `signing` or `authentication`, we use sub-keys for those.
 
+#### Long-lived key
+
+Your root key is the opposite of your sub-keys, in that it should be long-lived (if not permenant).
+
 Your root key is stored in cold storage, and only ever used on a computer that cannot physically interact with any other device (air-gapped) and that doesn't remember anything after shut down (most likely Tails).
 
 Your root key is used once a year to generate new sub-keys. It may also be used to sign other peoples keys for the [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust).
