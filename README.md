@@ -1,6 +1,14 @@
 # Paranoid Mode
 
-An *opinionated trust-nothing* guide to setting up and using PGP keys in a [post-Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) world.
+An opinionated guide to setting up and using PGP keys in a [post-Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) world.
+
+> **NOTE:** I have not completed this guide yet. There's a heap of stuff stubbed out, or unstarted.
+>
+> I have finished the [guide on creating your keys](/pgp/generate/passphrase.md), so it's worth a read if you need to do it.
+
+> Owen
+
+
 
 This is written for a threat model of either a nation state or [close enough to one](https://en.wikipedia.org/wiki/Tin_foil_hat). As such is may need more hardware than you expect. Don't let that deter you.
 
