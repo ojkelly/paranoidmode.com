@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [PGP | Pretty Good Privacy](pgp.md)
    * [Key pair](pgp/key_pair.md)
-   * [Root keypair](pgp/root_key.md)
+   * [Root key pair](pgp/root_key.md)
    * [Subkeys](pgp/subkeys.md)
    * [Generate your root PGP key](pgp/generate/about.md)
        * [Generate your diceware passphrase](pgp/generate/passphrase.md)
