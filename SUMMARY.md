@@ -22,6 +22,7 @@
        * [How to use your OpenPGP SmartCard for SSH Authentication](pgp/usage/how_to_use_your_openpgp_smartcard_for_ssh_authenti.md)
        * [Code Signing](pgp/usage/code_signing.md)
            * [Xcode](pgp/usage/code-signing/osx.md)
+           * Signing Git tags
            * [Git commits](pgp/usage/git_commits.md)
                * Signing Git tags
        * How to encrypt a file for someone else
