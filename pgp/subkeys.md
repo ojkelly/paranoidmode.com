@@ -15,7 +15,7 @@ Now you have 3 key pairs cryptographically guaranteed to be under your control, 
 ## Why we use them
 
 They're much easier to use than using your root key pair all the time. If you didn't have sub-keys every time you wanted to use your root key pair you would need:
- - to boot your secure airgapped computer
+ - to boot your secure air-gapped computer
  - transfer the information to be encrypted
  - unlock your private key
  - decrypt or sign the information
