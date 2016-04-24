@@ -25,3 +25,11 @@ They're much easier to use than using your root keypair all the time. If you did
 Why so many steps? Why can't you just keep the whole key pair on your computer?
 
 Keeping the keypair on your computer is actually common place for `ssh`, but it shouldn't be. It's trivial to exfiltrate keys, aside from all looking the same, they're almost always in the same place `~/.ssh`.
+
+With sub-keys, you have a USB device that physically stores the private key component of your sub key. You need to maintain physical control of the smartcard, but that is exponentially easier than maintain control of a keypair sitting on a computer.
+
+Futher, by storing your sub-keys on a smartcard the private keys are never published. A good smartcard makes it technically impossible to extract the private keys. That's not to say there may not be a way, the goal is to make it prohibitively dangerous and expensive.
+
+Smartcards also have very low pin failure limits. If you guess your pin wrong 3 times, and then guess your admin pin (PUK) wrong 3 times, the card will erase itself.
+
+If that happens you will forever lose access to those sub-keys, and you will need your root key to generate new ones.
