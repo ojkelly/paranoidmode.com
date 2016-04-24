@@ -14,4 +14,14 @@ Now you have 3 key pairs cryptographically guaranteed to be under your control, 
 
 ## Why we use them
 
-Every time you use a key
+They're much easier to use than using your root keypair all the time. If you didn't have subkeys everytime you wanted to use your root keypair you would need:
+ - to boot your secure airgapped computer
+ - transfer the information to be encrypted
+ - unlock your private key
+ - decrypt or sign the infomation
+ - destroy the private key on the computer
+ - transfer the information back to your normal computer.
+
+Why so many steps? Why can't you just keep the whole key pair on your computer?
+
+Keeping the keypair on your computer is actually common place for `ssh`, but it shouldn't be. It's trivial to exfiltrate keys, aside from all looking the same, they're almost always in the same place `~/.ssh`.
