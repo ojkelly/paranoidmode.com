@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Pretty Good Privacy (PGP)](pgp.md)
+* [(PGP) Pretty Good Privacy](pgp.md)
    * [Key pair](pgp/key_pair.md)
    * [Root Key](pgp/root_key.md)
    * [Subkeys](pgp/subkeys.md)
