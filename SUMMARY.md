@@ -33,5 +33,5 @@
    * [SSH](opsec/ssh/ssh_opsec.md)
        * [Harden your ssh_config](opsec/ssh/harden_your_sshconfig.md)
    * [How to make an airgapped computer](opsec/airgapmd.md)
-   * Harden your Yubikey
+   * [Harden your Yubikey](opsec/harden_your_yubikey.md)
 
