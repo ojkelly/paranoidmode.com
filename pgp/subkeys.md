@@ -8,7 +8,10 @@ You should never have a copy of the private key of a sub-key, rather it should b
 
 ## How they work
 
-Using your root keypair
+Using your root keypair you ask a smartcard to generate new keys and send the public key back. The public key is then signed with your root keypair. You do this for each subkey typically 3, one each for `encryption`, `signing`, and `authentication`. Then you publish your updated root keypair with the signatures for your new subkeys.
+
+Now you have 3 key pairs cryptographically guaranteed to be under your control, (as we signed them with your root keypair).
 
 ## Why we use them
 
+Every time you use a key
