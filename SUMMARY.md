@@ -36,4 +36,5 @@
    * [How to make an airgapped computer](opsec/airgapmd.md)
    * [Harden your Yubikey](opsec/harden_your_yubikey.md)
    * Web of Trust
+   * How to find someones public key
 
