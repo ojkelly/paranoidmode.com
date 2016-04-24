@@ -23,7 +23,7 @@
        * [Code Signing](pgp/usage/code_signing.md)
            * [Xcode](pgp/usage/code-signing/osx.md)
            * [Git commits](pgp/usage/git_commits.md)
-           * Signing Git tags
+           * [Signing Git tags](pgp/usage/code-signing/Signing Git tags)
        * How to encrypt a file for someone else
        * How to decrypt a file that was encrypted for you
 * [OPSEC | Operational Security](opsec.md)
