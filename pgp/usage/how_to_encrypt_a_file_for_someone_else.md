@@ -19,4 +19,15 @@ If you don't you might not have the right key.
 
 Now you have the key in your keyring, you can encrypt the file `secret.md` as follows:
 
-    gpg2 --encrypt secret.ms --out output.asc --recipient "Owen Kelly"
+    # With the name associated with the public key
+    gpg2 --out output.asc --recipient "Owen Kelly" --encrypt secret.md
+  
+    # With the email from the public key
+    gpg2 --out output.asc --recipient owen@owenkelly.com.au --encrypt secret.md
+    
+    # With the short key
+    gpg2 --out output.asc --recipient 2F95015B --encrypt secret.md 
+
+With method you choose in up to you.
+
+The output filename can be whatever you want. It's conventional to end in `.asc`, but you can put whatever you want. It's likely not a good idea to call it something like `secret.md.asc`.
