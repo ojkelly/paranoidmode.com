@@ -8,7 +8,7 @@ The hardware required can be purchased for less than $150USD. If you have an old
 
 You should follow this guide if you are a **programmer**, **journalist**, **network administrator** or **sysadmin**, or someone who just uses `ssh` regularly.
 
-[https://github.com/ojkelly/paranoidmode.com](Pull requests) are welcome. There's an edit link on every page.
+[Pull Requests](https://github.com/ojkelly/paranoidmode.com) are welcome. There's an edit link on every page.
 
 
 ## **Assumed Knowledge**
