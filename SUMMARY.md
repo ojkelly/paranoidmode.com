@@ -24,7 +24,7 @@
            * [Xcode](pgp/usage/code-signing/osx.md)
            * Git commits
        * [How to encrypt a file for someone else](pgp/usage/how_to_encrypt_a_file_for_someone_else.md)
-       * How to decrypt a file that was encrypted for you
+       * [How to decrypt a file that was encrypted for you](pgp/usage/how_to_decrypt_a_file_that_was_encrypted_for_you.md)
 * [OPSEC | Operational Security](opsec.md)
    * [Automatically lock your computer when you remove your OpenPGP Smart Card](opsec/automatically_lock_your_computer_when_you_remove_y.md)
    * [What you need to know about metadata](opsec/what_you_need_to_know_about_metadata.md)
