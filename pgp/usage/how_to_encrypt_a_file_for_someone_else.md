@@ -3,4 +3,3 @@
 
 `gpg --output document.gpg --encrypt --recipient owen@owenkelly.com.au document.txt`
 
-`gpg --output document --decrypt document.gpg`
