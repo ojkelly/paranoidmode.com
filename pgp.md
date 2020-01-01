@@ -57,7 +57,7 @@ We'll go into detail in the [next chapter](/pgp/key_pair.md).
 
 ## Threats to PGP
 
-You should be aware of of [Shor's Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). It desrcibes a method that will break public key encryption very quickly. Effectively making the hard problem (decryption) and easy as the easy problem (encryption).
+You should be aware of of [Shor's Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). It describes a method that will break public key encryption very quickly. Effectively making the hard problem (decryption) and easy as the easy problem (encryption).
 
 Naturally the NSA (and presumably other <acronym title="Three Letter Agencies">TLA</acronym>  are [working on being able to do this](https://www.washingtonpost.com/world/national-security/nsa-seeks-to-build-quantum-computer-that-could-crack-most-types-of-encryption/2014/01/02/8fff297e-7195-11e3-8def-a33011492df2_story.html). If this does become possible we will likely hear about it 5-10 years after it's discovered. If we're lucky we'll find out quickly.
 
