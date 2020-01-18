@@ -17,3 +17,5 @@ If you then `ls` the directory to *list all files*, you should see your new `pub
 Now move your `public USB` to your `everyday computer` and import it. If you're on  OS X with GPG Tools installed, or
 on Linux with GPG installed the following command will work:
 
+    owen@everydayLaptop:/media/PUBLIC$ gpg2 --import 2F95015B-public.asc
+
