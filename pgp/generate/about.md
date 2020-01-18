@@ -31,8 +31,8 @@ Before you get started you will need to get the following:
     of your `private key`, using a wireless capable, or internet connected computer adds significant risk that your `private key` will be exfiltrated and rendered insecure.
  - A safe place to store a backup of your private key, common locations are:
    - a `safe` (the metal kind with a code),
-   - your parents house, or the house of someone you trust,
-   - any location where you can be sure you will know if it has been accessed.
+   - your parents house, or the house of someone you trust
+   - any location where you can be sure you will know if it has been accessed
 
 You might also want to get some tamper evident bags to store your `private key` backups inside of. I'll leave this up to you.
 

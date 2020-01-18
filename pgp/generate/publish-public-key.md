@@ -14,6 +14,6 @@ If you then `ls` the directory to *list all files*, you should see your new `pub
     amnesia@amnesia:/media/PUBLIC$ 2F95015B-public.asc
 
 
-Now move your `public USB` to your `everyday computer` and import it. If you're on  OS X with GPG Tools installed, or
+Now move your `public USB` to your `everyday computer` and import it. If you're on OS X with GPG Tools installed, or
 on Linux with GPG installed the following command will work:
 

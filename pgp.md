@@ -32,7 +32,7 @@ Let break this down into the two main parts and explain how they work.
 
 ## **Symmetric Encryption**
 
-Alice has a wants to encrypt a file. She puts it in a box with a lock. The `key` to the lock is `secret`. She keeps a copy of this `key` to unlock the box later.
+Alice wants to encrypt a file. She puts it in a box with a lock. The `key` to the lock is `secret`. She keeps a copy of this `key` to unlock the box later.
 
 Alice now wants the file she encrypted. She unlocks (decrypts) the box with her `key`.
 
@@ -40,7 +40,7 @@ Pretty simple, one `key` both encrypts and decrypts our box. Or to put it anothe
 
 ### Benefits and Threats
 
-Symmetric encryption has it's benefits, but it also has threats that prevent it usage in all cases.
+Symmetric encryption has its benefits, but it also has threats that prevent its usage in all cases.
 
 Symmetric encryption is fast, much faster than asymmetric encryption.
 
@@ -57,8 +57,8 @@ We'll go into detail in the [next chapter](/pgp/key_pair.md).
 
 ## Threats to PGP
 
-You should be aware of of [Shor's Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). It describes a method that will break public key encryption very quickly. Effectively making the hard problem (decryption) and easy as the easy problem (encryption).
+You should be aware of [Shor's Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). It describes a method that will break public key encryption very quickly. Effectively making the hard problem (decryption) as easy as the easy problem (encryption).
 
 Naturally the NSA (and presumably other <acronym title="Three Letter Agencies">TLA</acronym>  are [working on being able to do this](https://www.washingtonpost.com/world/national-security/nsa-seeks-to-build-quantum-computer-that-could-crack-most-types-of-encryption/2014/01/02/8fff297e-7195-11e3-8def-a33011492df2_story.html). If this does become possible we will likely hear about it 5-10 years after it's discovered. If we're lucky we'll find out quickly.
 
-The NSA also reportedly records every PGP message they see, in the hope they can decrypt them later. Is they can solve Shor's Algorithm then they will be able to do this.
+The NSA also reportedly records every PGP message they see, in the hope they can decrypt them later. If they can solve Shor's Algorithm then they will be able to do this.

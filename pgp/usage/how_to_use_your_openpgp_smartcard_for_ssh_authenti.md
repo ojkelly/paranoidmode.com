@@ -26,7 +26,7 @@ If you don't know the fingerprint of your `authentication subkey` you can open u
     gpg>
 
 In the output of that command we get a list of all the subkeys, and what they can be used for.
-Look for the `subkey` with `usage: A`. In this case it's fingerprint is `5DA2A8B2`.
+Look for the `subkey` with `usage: A`. In this case its fingerprint is `5DA2A8B2`.
 
 
 Type `quit` to exit `--edit-key`
@@ -71,7 +71,7 @@ First run `ssh-add -L` to list all identities in `ssh-agent`.
     owen@everydayLaptop:~$ ssh-add -L
     ssh-rsa AAAABadadasdasdasda...truncated /Users/owen/.ssh/id_rsa
 
-If you get back a response pointing to a file in the `~/.ssh` directory, it means you currently have a `ssh keypair` setup. We need to unlink this from `ssh-agent` in order to use your `gpg` keypair`.
+If you get back a response pointing to a file in the `~/.ssh` directory, it means you currently have a `ssh keypair` setup. We need to unlink this from `ssh-agent` in order to use your `gpg` keypair.
 
 Type `ssh-add -D` to remove all identities in `ssh-agent`.
 
@@ -84,7 +84,7 @@ If you run `ssh-add -L` you should be told there are no identities now.
     owen@everydayLaptop:~$ ssh-add -L
     The agent has no identities.
 
-Now we're ready to being using `gpg-agent` with `ssh-agent`.
+Now we're ready to begin using `gpg-agent` with `ssh-agent`.
 
 
     owen@everydayLaptop:~$ ssh-add -L

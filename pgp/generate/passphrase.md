@@ -8,7 +8,7 @@ A passphrase is a different to a password. Most people are terrible at making pa
 and often are phrases commonly found in common use. Like, `to2ornot2b`. Literally the worst password after `12345`,
 `qwerty` and well a few others like `dog1992`.
 
-Passwords get their strength from [entropy](https://www.wikiwand.com/en/Entropy_(computing)), it's best thought of as randomness, or unpredictability. Encryption is easier and faster to crack when you can somewhat predict what the key might be.
+Passwords get their strength from [entropy](https://www.wikiwand.com/en/Entropy_(computing), it's best thought of as randomness, or unpredictability. Encryption is easier and faster to crack when you can somewhat predict what the key might be.
 
 I present one of the most famous XKCD's for your entertainment.
 
@@ -58,12 +58,12 @@ After that translate the 5 digit numbers into their diceware word.
     (24651) = evoke
     (35156) = kane
 
-Some people like to come up with a story to help them remember. This isn't my passphrase, and I'm not  good at the whole make a story thing, so enjoy this:
+Some people like to come up with a story to help them remember. This isn't my passphrase, and I'm not good at the whole make a story thing, so enjoy this:
 
 > **Witt** **splay**ed the **ash** while **fried** played in the **arena** with **ryan** who had **apathy** to the **chief**. Time to **evoke** **kane**.
 
-The point with diceware passphrases are that they aren't common groupings of words. The result isn't something that follows normal speech. As that would be predictable and less secure. Your passphrase story is just a method to make the keywords a bit less nonsensical so you can remember them.
+The point with diceware passphrases are that they aren't common groupings of words. The result isn't something that follows normal speech, as that would be predictable and less secure. Your passphrase story is just a method to make the keywords a bit less nonsensical so you can remember them.
 
 You should now have a sheet of paper with 40 or 50 numbers on it, and your diceware passphrase below it.
-Keep this paper  safe. Fold it up and put it in your wallet. You will need to refer to it for a couple of days until you memorize the password. After that you might want to store it with your `private key` backups.
+Keep this paper safe. Fold it up and put it in your wallet. You will need to refer to it for a couple of days until you memorize the password. After that you might want to store it with your `private key` backups.
 If you forget this passphrase you will loose access to your private key. If you loose this passphrase, you can change it.

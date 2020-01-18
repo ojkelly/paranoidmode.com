@@ -61,7 +61,7 @@ setup.
     amnesia@amnesia:/~$ cp 2F95015B-revoke.asc /media/PRIVATE/
 
 Check that it did in fact copy over with `ls /media/PRIVATE`.
-If you see it listed in the output it's worked.
+If you see it listed in the output, then it's worked.
 
     amnesia@amnesia:/~$ ls /media/PRIVATE
     2F95015B-revoke.asc

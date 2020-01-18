@@ -20,13 +20,13 @@ They're much easier to use than using your root key pair all the time. If you di
  - unlock your private key
  - decrypt or sign the information
  - destroy the private key on the computer
- - transfer the information back to your normal computer.
+ - transfer the information back to your normal computer
 
 Why so many steps? Why can't you just keep the whole key pair on your computer?
 
 Keeping the key pair on your computer is actually common place for `ssh`, but it shouldn't be. It's trivial to ex-filtrate keys, aside from all looking the same, they're almost always in the same place `~/.ssh`.
 
-With sub-keys, you have a USB device that physically stores the private key component of your sub key. You need to maintain physical control of the smart card, but that is exponentially easier than maintain control of a key pair sitting on a computer.
+With sub-keys, you have a USB device that physically stores the private key component of your sub key. You need to maintain physical control of the smart card, but that is exponentially easier than maintaining control of a key pair sitting on a computer.
 
 Futher, by storing your sub-keys on a smart-card the private keys are never published. A good smart-card makes it technically impossible to extract the private keys. That's not to say there may not be a way, the goal is to make it prohibitively dangerous and expensive.
 
