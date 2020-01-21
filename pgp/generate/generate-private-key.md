@@ -26,10 +26,10 @@ Enter in the `root` password you set when you configured the pre-launch wizard f
 
     gpg: keyring `/root/.gnupg/pubring.gpg' created
 
-Your new keyring has just been created (this is where PGP stores it's keys). Now we need
+Your new keyring has just been created (this is where PGP stores its keys). Now we need
 to choose what type of key we are generating.
 Because this is going to be a *long term offline* `private key`, and we are going to use
- subkeys for day to day use, we want to select `4 RSA (sign only).
+ subkeys for day to day use, we want to select `4 RSA (sign only)`.
 
     Please select what kind of key you want:
        (1) RSA and RSA (default)
@@ -38,11 +38,11 @@ Because this is going to be a *long term offline* `private key`, and we are goin
        (4) RSA (sign only)
     Your selection? 4
 
-Now you get to choose the length of you're `private key`, you need to select **at least** `4096`.
+Now you get to choose the length of your `private key`, you need to select **at least** `4096`.
 
  If for some reason I haven't updated this and the accepted wisdom is to use higher than 4096, do that.
  The only cost of using a larger key is it takes a bit longer to use. However smaller keys are
- almost exponentially quicker to brute force. So as computing power increase we increase
+ almost exponentially quicker to brute force. So as computing power increases we increase
   our key sizes to ensure they cannot be brute forced.
 
     RSA keys may be between 1024 and 4096 bits long.
@@ -98,7 +98,7 @@ Now we're about to actually start generating the key. As the message says, the c
 entropy as possible. Think of it as similar to randomness, it's what makes the key less predictable.
 A predictable key is a crackable key.
 
-Basically, move your mouse and type on the keyboard (don't hit `ctrl-c` though you'll cancel the key generation).
+Basically, move your mouse and type on the keyboard (don't hit `ctrl-c` though, as you'll cancel the key generation).
 
     We need to generate a lot of random bytes. It is a good idea to
     perform some other action (type on the keyboard, move the mouse,
@@ -122,7 +122,7 @@ This information is public, thus okay to share. The key you see below is my actu
     Note that this key cannot be used for encryption.  You may want to use
     the command "--edit-key" to generate a subkey for this purpose.
 
-Not the last message above, that the key cannot be used for encryption. This is because we chose only to allow our
+Note in the last message above that the key cannot be used for encryption. This is because we chose only to allow our
 `private key` to sign other keys. This is the perfect model for using subkeys.
 
 Take note of the line `pub   4096R/2F95015B 2016-01-19`.
@@ -131,5 +131,5 @@ Take note of the line `pub   4096R/2F95015B 2016-01-19`.
 
 After the `4096R/` is your key's `fingerprint`. In this example my `fingerprint` for my `public key` is `2F95015B`.
  Note this down or remember it. It's *public* information (so no need to keep it secret) and it serves as a quick ID for
- the key. You'll need to use it a bit when working with this key.
+ the key. You'll need to use it in a bit when working with this key.
 

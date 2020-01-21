@@ -4,13 +4,12 @@
 >
 > Before booting into Tails ensure that there are no wireless transmitters in the laptop (wifi, bluetooth, cellular).
 >
-> Ask make sure there is **no hard drive** or **storage media** excluding your USBs connected or installed in the hard drive.
+> Make sure there is **no hard drive** or **storage media** excluding your USBs connected or installed in the hard drive.
 >
 > Remember we're working with your private key on this laptop, as such we must take every precaution to
 ensure it cannot be exfiltrated.
 
-
-**Did you read the big message above? You did? So there's no wireless radios or data storage media other than you're USBs?**
+**Did you read the big message above? You did? So there's no wireless radios or data storage media other than your USBs?**
 
 If you cheap out here you might be putting yourself at risk.
 You should be able to get a super crappy laptop for $150 or less off ebay.
@@ -18,15 +17,14 @@ You barely need anything to run Tails. So get a dedicated laptop for airgapped w
 
 Okay let's move on.
 
-Plug your Tails usb into your laptop and boot from the USB. You might need to toggle the boot order in the BIOS to set the USB drive as the first boot media.
+Plug your Tails USB into your laptop and boot from the USB. You might need to toggle the boot order in the BIOS to set the USB drive as the first boot media.
 
 When you boot Tails you're greeted with a pre-launch wizard that gives you some options. The only thing you need to do is set an `admin password`. There are other options you can set but as this device never touches a
 network you can just set the admin password and launch Tails.
 
-You need to admin password set so that you can use `sudo` to interact with the `OpenPGP Smart Card`. The drivers don't allow you to interact if you're not `root` (which is what `sudo` does).
+You need an admin password set so that you can use `sudo` to interact with the `OpenPGP Smart Card`. The drivers don't allow you to interact if you're not `root` (which is what `sudo` does).
 
 A quick and easy way to mount a USB drive with Tails is to open it with the <abbr title="Graphical User Interface">GUI</abbr>.
-
 
 > TODO Add instructions regarding printing, and checking that you can print.
 

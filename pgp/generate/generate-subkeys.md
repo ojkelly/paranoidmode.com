@@ -1,12 +1,12 @@
 # Generate your subkeys
 
-It's now time top plug in that `yubikey` or other `OpenPGP Smart Card`.
+It's now time to plug in that `yubikey` or other `OpenPGP Smart Card`.
 
 Make sure you know what the `pin` and `admin pin` are.
 
 Firstly change back to your home directory by entering `cd ~`.
 
-Then run `sudo gpg2 --card-status` to check if you're `smart card` is working. You should see an output similar to below.
+Then run `sudo gpg2 --card-status` to check if your `smart card` is working. You should see an output similar to below.
 
     amnesia@amnesia:/~$ sudo gpg2 --card-status
     [sudo] password for amnesia:
@@ -34,7 +34,7 @@ Then run `sudo gpg2 --card-status` to check if you're `smart card` is working. Y
 
 You might need to hit `ctrl-c` to escape from `--card-status`. That's what the `^C` at the end of the snippet above is.
 
-Now we know you're `smart card` is working we can generate the `subkeys`.
+Now we know your `smart card` is working we can generate the `subkeys`.
 
 Enter `sudo gpg2 --edit-key 2F95015B` with your fingerprint, to begin editing your `private key`.
 
@@ -56,7 +56,7 @@ GPG will then let you know the key's metadata, and should inform you that the se
                          trust: ultimate      validity: ultimate
     [ultimate] (1). Owen Kelly <owen@owenkelly.com.au>
 
-Type `addcardkey` to get started creatig the first `smart card` key pair.
+Type `addcardkey` to get started creating the first `smart card` key pair.
 We're going to add a `Signature key` first, so enter `1`.
 
     gpg> addcardkey
@@ -103,7 +103,7 @@ You will need to regenerate your `subkeys` every year.
     Is this correct? (y/N) y
     Really create? (y/N) y
 
-Now you need to enter you're `admin pin`, again in popup.
+Now you need to enter your `admin pin`, again in a popup.
 
     scdaemon[6995]: 3 Admin PIN attempts remaining before card is permanently locked
     scdaemon[6995]: DBG: asking for PIN '|A|Please enter the Admin PIN'
